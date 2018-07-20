@@ -14,6 +14,9 @@
         <div class='navElem'>SELECTION-B</div>
         <div class='navElem'>SELECTION-C</div>
         <div class='navElem'>SELECTION-D</div>
+        <button class='socialBtn'>Twitter</button>
+        <button class='socialBtn'>Facebook</button>
+        <button class='socialBtn'>Newsletter</button>
       </div>
     </div>
   </body>
