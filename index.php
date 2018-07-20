@@ -10,11 +10,12 @@
   </head>
   <body>
     <div class='indexTopNav'>
-      <img src='assets/img/logo.png' class='logo'>
-      <div class='accountActions'>
-        <button class='socialBtn'>Signup</button>
-        <div class='navLogin'>Login</div>
-
+      <div class='navTop'>
+        <img src='assets/img/logo.png' class='logo'>
+        <div class='accountActions'>
+          <button class='socialBtn'>Signup</button>
+          <div class='navLogin'>Login</div>
+        </div>
       </div>
       <br />
       <div class='navLinks'>
@@ -28,7 +29,7 @@
         <button class='socialBtn'>Newsletter</button>
         <div class='searchBar'>
           <input type='text' class='navSearchInp' placeholder="Search pagePod..." id='searchInp'>
-          <i class="material-icons" onclick="showSearch()">search</i>
+          <i class="material-icons navSearchBtn" onclick="showSearch()">search</i>
         </div>
       </div>
     </div>
