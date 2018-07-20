@@ -11,11 +11,13 @@
   <body>
     <div class='indexTopNav'>
       <div class='navTop'>
-        <img src='assets/img/logo.png' class='logo'>
+        <img src='assets/img/logo.png' class='logo' title='PagePod'>
         <div class='accountActions'>
           <button class='socialBtn'>Signup</button>
           <div class='navLogin'>Login</div>
         </div>
+        <br />
+        <div class='siteName'>PagePod</div>
       </div>
       <br />
       <div class='navLinks'>
