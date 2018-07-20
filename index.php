@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>PagePod | News sharing platform</title>
+    <link rel="shortcut icon" type="image/png" href="assets/img/logo.png"/>
     <link rel='stylesheet' href='assets/css/main.css'>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   </head>
