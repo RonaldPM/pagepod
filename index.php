@@ -53,12 +53,14 @@
         <div class='latestTitle'>
           <div class='latestTitleHead'>Title head goes here</div>
           <br />
-          <div class='latestDesc'>Some desctiption about the story can go here</div>
+          <div class='latestDesc'>Some desctiption about the latest story can go here</div>
         </div>
         <br /><br />
         <button class='tag'>LATEST</button>
       </div>
       <!--BOX FOR LATEST ARTICLE ENDS HERE-->
+      <br />
+      <!--RECENT ARTICLES STARTS HERE-->
       <div class='recentStories'>
         <div class='sectionTitle'>Recent stories</div>
         <div class='sectionSeperator'></div>
@@ -71,10 +73,46 @@
             it from the database
           </div>
           <img src='media/author_dp/author1.jpg' class='auth_dp'>
-          <div class='authName'>John Doe</div>
+          <div class='authName'>Jain Doe</div>
+        </div>
+        <div class='recentStoryBox'>
+          <img src='media/img/laptop.jpg' class='recentStoryImg'>
+          <div class='recentHead'>The recent story head will go here</div>
+          <div class='recentDesc'>
+            A short description of the recent story will be placed here after fetching
+            it from the database
+          </div>
+          <img src='media/author_dp/author1.jpg' class='auth_dp'>
+          <div class='authName'>Jain Doe</div>
+        </div>
+        <div class='recentStoryBox'>
+          <img src='media/img/tesla.jpg' class='recentStoryImg'>
+          <div class='recentHead'>The recent story head will go here</div>
+          <div class='recentDesc'>
+            A short description of the recent story will be placed here after fetching
+            it from the database
+          </div>
+          <img src='media/author_dp/author1.jpg' class='auth_dp'>
+          <div class='authName'>Jain Doe</div>
+        </div>
+      </div>
+      <!--RECENT ARTICLES END HERE-->
+      <div class='storyBitWrap'>
+        <div class='sectionTitle'>More stories</div>
+        <div class='sectionSeperator'></div>
+        <div class='storyBit'>
+          <img src='media/img/stars.jpg' class='storyBitImg'>
+          <div class='storyBitHead'>The story title will go here in this spot</div>
+          <br /><br />
+          <div class='storyBitAuthor'>By <font color='#e93636'>John Doe</font> &nbsp;&nbsp;|&nbsp;&nbsp; July 20 &nbsp;&nbsp;|&nbsp;&nbsp; Topic</div>
         </div>
       </div>
     </div>
     <!--BODY OF THE PAGE ENDS HERE-->
+    <br />
+    <div class='footerSpacer'></div>
+    <div class='footer'>
+
+    </div>
   </body>
 </html>
