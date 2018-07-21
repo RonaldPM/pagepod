@@ -12,7 +12,7 @@ a{
   background-color: #e93636; /*Modify for changing background color of navigation bar on INDEX page*/
 }
 .navTop{
-  width: 1100px;
+  width: 950px;
   margin: auto;
 }
 .siteName{
@@ -37,10 +37,10 @@ a{
   -webkit-transition:.4s;
 }
 .navLinks{
-  width: 1100px;
+  width: 950px;
   height: 45px;
   margin: auto;
-  margin-top: 12px;
+  margin-top: 10px;
 }
 .navElem{
   color: #FFF;
@@ -123,4 +123,44 @@ a{
 .navSearchBtn:hover{
   opacity: 1;
   cursor: pointer;
+}
+.bodyWrap{
+  width:950px;
+  min-height: 1000px;
+  margin: auto;
+  margin-top: 35px;
+}
+.latestBox{
+  width:100%;
+  height: 350px;
+  border: 1px solid #dcdcdc;
+}
+.latestImgHolder{
+  width: 60%;
+  height: 100%;
+  float:left;
+}
+.latestTitle{
+  width: 35%;
+  height: 180px;
+  float: left;
+  margin-left: 20px;
+}
+.latestTitleHead{
+  font-size: 2.3em;
+  font-weight: 600;
+  color: #292929;
+  line-height: 1.2;
+  margin-top: 10px;
+}
+.latestDesc{
+  color: #494949;
+}
+.tag{
+  height: 23px;
+  border-radius: 3px;
+  border: 0px;
+  background-color: #6d42f0;
+  color: #FFF;
+  margin-left: 20px;
 }

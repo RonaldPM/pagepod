@@ -4,7 +4,7 @@
     <link rel="shortcut icon" type="image/png" href="assets/img/logo.png"/>
     <link rel='stylesheet' href='assets/css/main.css'>
     <script type='text/javascript' src='assets/js/ui.js'></script>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   </head>
@@ -33,6 +33,18 @@
           <input type='text' class='navSearchInp' placeholder="Search pagePod..." id='searchInp'>
           <i class="material-icons navSearchBtn" onclick="showSearch()">search</i>
         </div>
+      </div>
+    </div>
+    <div class='bodyWrap'>
+      <div class='latestBox'>
+        <img src='media/img/duckduckgo.jpg' class='latestImgHolder'>
+        <div class='latestTitle'>
+          <div class='latestTitleHead'>Title head goes here</div>
+          <br />
+          <div class='latestDesc'>Some desctiption about the story can go here</div>
+        </div>
+        <br /><br />
+        <button class='tag'>LATEST</button>
       </div>
     </div>
   </body>
