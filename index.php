@@ -59,6 +59,21 @@
         <button class='tag'>LATEST</button>
       </div>
       <!--BOX FOR LATEST ARTICLE ENDS HERE-->
+      <div class='recentStories'>
+        <div class='sectionTitle'>Recent stories</div>
+        <div class='sectionSeperator'></div>
+        <br />
+        <div class='recentStoryBox'>
+          <img src='media/img/datacenter.jpg' class='recentStoryImg'>
+          <div class='recentHead'>The recent story head will go here</div>
+          <div class='recentDesc'>
+            A short description of the recent story will be placed here after fetching
+            it from the database
+          </div>
+          <img src='media/author_dp/author1.jpg' class='auth_dp'>
+          <div class='authName'>John Doe</div>
+        </div>
+      </div>
     </div>
     <!--BODY OF THE PAGE ENDS HERE-->
   </body>
