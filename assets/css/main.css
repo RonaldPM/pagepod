@@ -213,6 +213,9 @@ a{
   color: #e93636;
   font-size: 0.9em;
 }
+.storyBitWrap{
+  margin-top: -50px;
+}
 .storyBit{
   width: 75%;
   height: 120px;
