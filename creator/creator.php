@@ -4,15 +4,15 @@
 <html>
   <head>
     <title>Creator Dashboard</title>
-    <link rel='stylesheet' href='assets/css/main.css'>
-    <link rel='stylesheet' href='assets/css/adminStyle.css'>
+    <link rel='stylesheet' href='../assets/css/main.css'>
+    <link rel='stylesheet' href='../assets/css/creatorStyle.css'>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet"><!--GOOGLE FONTS API-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><!--FOR GOOGLE MATERIAL ICONS-->
   </head>
   <body>
     <div class='profileNavBar'>
       <div class='profileNavlinkWrap'>
-        <img src='assets/img/logo.png' class='profileLogo'>
+        <img src='../assets/img/logo.png' class='profileLogo'>
         <br />
         <div class='profileSiteName'>PagePod</div><div class='subName'>Creator</div>
         <button class='createBtn'>Create +</button>
@@ -23,7 +23,7 @@
       <div class='sectionSeperator'></div>
       <br />
       <div class='creatorPostBox'>
-        <img src='media/img/laptop.jpg' class='creatorPostImg'>
+        <img src='../media/img/laptop.jpg' class='creatorPostImg'>
         <div class='storyBitHead'>The story title will go here in this spot</div>
         <br /><br />
         <div class='storyBitAuthor'>By <font color='#e93636'>You</font> &nbsp;&nbsp;|&nbsp;&nbsp; July 20 &nbsp;&nbsp;|&nbsp;&nbsp; Topic</div>
@@ -34,7 +34,7 @@
         </div>
       </div>
       <br /><br />
-      <div class='sectionTitle newline mt50'>Comments on your posts</div>
+      <div class='sectionTitle newline mt50'>Latest comments on your posts</div>
       <div class='sectionSeperator'></div>
     </div>
   </body>
