@@ -15,7 +15,12 @@
         <img src='../assets/img/logo.png' class='profileLogo'>
         <br />
         <div class='profileSiteName'>PagePod</div><div class='subName'>Creator</div>
-        <button class='createBtn'>Create +</button>
+        <a href='createpost.php'>
+          <button class='createBtn'>Create +</button>
+        </a>
+        <a href='../index.php'>
+          <button class='createBtn'>View site</button>
+        </a>
       </div>
     </div>
     <div class='contentWrap'>

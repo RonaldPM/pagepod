@@ -16,10 +16,6 @@ body{
   width:45px;
   margin-top: 13px;
   border-radius: 5px;
-  -o-transition:.4s;
-  -ms-transition:.4s;
-  -moz-transition:.4s;
-  -webkit-transition:.4s;
   cursor: pointer;
   float: left;
 }
@@ -65,6 +61,7 @@ body{
   margin-top: -7px;
   color: #e93636;
   cursor: pointer;
+  margin-left: 8px;
 }
 .postButtons{
   height: 85%;
