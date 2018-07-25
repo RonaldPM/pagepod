@@ -26,8 +26,30 @@
     <div class='contentWrap'>
       <div class='sectionTitle'>Create a new post</div>
       <div class='sectionSeperator'></div>
-      <br />
-
+      <br /><br />
+      <input type='text' class='inpt' placeholder="Post title">
+      <br /><br />
+      <textarea class='txtArea shortDesc' placeholder='Short desctiption (120 characters max)' maxlength="120"></textarea>
+      <br /><br />
+      <textarea class='txtArea para left' placeholder='First paragraph' maxlength="120"></textarea>
+      <textarea class='txtArea para left' placeholder='Second paragraph' maxlength="120"></textarea>
+      <textarea class='txtArea para left' placeholder='Third paragraph' maxlength="120"></textarea>
+      <textarea class='txtArea para left' placeholder='Forth paragraph' maxlength="120"></textarea>
+      <br /><br />
+      <div class='imgUploadWrap'>
+        <div class='imgUpload'>
+          <div class='uploadTitle'>Image 1</div>
+        </div>
+        <div class='imgUpload'>
+          <div class='uploadTitle'>Image 1</div>
+        </div>
+        <div class='imgUpload'>
+          <div class='uploadTitle'>Image 1</div>
+        </div>
+        <div class='imgUpload'>
+          <div class='uploadTitle'>Image 1</div>
+        </div>
+      </div>
     </div>
   </body>
 </html>
